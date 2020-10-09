@@ -3,3 +3,4 @@ ANAYAH RESOLUSI
 - Mempelajari lebih dalam mengenai bahasa Python
 - Mempelajari lebih dalam mengenai Cyber Security
 - Agar lebih produktif
+=====
